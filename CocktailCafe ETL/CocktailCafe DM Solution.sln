@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CocktailCafe ETL", "CocktailCafe ETL\CocktailCafe ETL.dtproj", "{305CC684-FD6D-45DF-BD34-2750B00E491D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OLTP", "OLTP", "{B800ACD2-1412-4021-9105-73F4BCF5AB72}"
+	ProjectSection(SolutionItems) = preProject
+		OLTP\CocktailCafe.bak = OLTP\CocktailCafe.bak
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DM Build", "DM Build", "{4E17F336-E4EF-4BF1-9974-0A4FE4372C93}"
+	ProjectSection(SolutionItems) = preProject
+		DM build\CocktailCafe DM.sql = DM build\CocktailCafe DM.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DM Solution Documentation", "DM Solution Documentation", "{8CF27F83-CD78-49D9-8624-FDBBE2CF2A54}"
+	ProjectSection(SolutionItems) = preProject
+		DM Solution Documentation\CocktailCafe DM Solution Workbook.xlsx = DM Solution Documentation\CocktailCafe DM Solution Workbook.xlsx
+		DM Solution Documentation\CocktailCafe Solution Dimensional Diagram.vsdx = DM Solution Documentation\CocktailCafe Solution Dimensional Diagram.vsdx
+		DM Solution Documentation\CocktailCafe Solution Documentation.docx = DM Solution Documentation\CocktailCafe Solution Documentation.docx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DM Multidimensional Analysis", "DM Multidimensional Analysis", "{346E50EA-A96F-4AED-BC67-91555A5C80DC}"
+	ProjectSection(SolutionItems) = preProject
+		DM Multidimensional Analysis\CocktailCafe Analysis.xlsx = DM Multidimensional Analysis\CocktailCafe Analysis.xlsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DM Reports and Dashboards", "DM Reports and Dashboards", "{FCEF4BA2-73B7-4F78-A54C-664142C5402F}"
+	ProjectSection(SolutionItems) = preProject
+		DM Reports and Dashboards\CocktailCafe DM analysis.pbix = DM Reports and Dashboards\CocktailCafe DM analysis.pbix
+		DM Reports and Dashboards\Presentation.pdf = DM Reports and Dashboards\Presentation.pdf
+		DM Reports and Dashboards\Presentation.pptx = DM Reports and Dashboards\Presentation.pptx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305CC684-FD6D-45DF-BD34-2750B00E491D}.Development|Default.ActiveCfg = Development
+		{305CC684-FD6D-45DF-BD34-2750B00E491D}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9C4F68F-4F90-4F97-9CB2-DCF63055F9CE}
+	EndGlobalSection
+EndGlobal
