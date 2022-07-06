@@ -22,3 +22,5 @@ The owners of Cocktail Café want to know which store is the busiest. They also 
 ##### 3.	Which menu items require the highest cost of supplies and could be removed from their menu offering. 
 The buying team at Cocktail Café would find it helpful to know which drink’s ingredient’s use the largest quantity of supplies for both inventory and budgeting purposes. Knowing how much one drink uses in each component will help plan budgets and may determine how much of other components are purchased.
 
+![](image/Dashboard1.jpg)
+![](image/Dashboard%2.jpg) 
