@@ -1,7 +1,7 @@
 # Cocktail-Cafe Data Mart
 ### Techology used: Microsoft Excel, MS SQL server, Visio Studio
 
-![](Cocktail%20Cafe.jpg) 
+![](image/Cocktail%20Cafe.jpg) 
 
 #### 	 LETTER OF ENGAGEMENT:
 ##### 	This letter of engagement is a contract between systems consultants and Cocktail Café to outline a deliverable database that will augment the services provided by the client.  The following will clearly describe the opportunity at hand, and present the deliverables chosen to address this opportunity.
