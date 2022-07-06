@@ -7,11 +7,11 @@
 ##### 	This letter of engagement is a contract between systems consultants and Cocktail Café to outline a deliverable database that will augment the services provided by the client.  The following will clearly describe the opportunity at hand, and present the deliverables chosen to address this opportunity.
 ####     Project Overview
 ##### 	Cocktail Café has hired system consultants to work with their existing database to help organize work systems and maximize efficiency for its businesses. Cocktail Café’s owners felt this advent of technology was necessary due to several key factors and questions. The 5W’s are below:
-·	Cocktail Café currently has a small number of locations and plans to open more in Colorado
-·	Cocktail Café needs to ensure all locations are thriving
-·	Cocktail Café wants to know if they are efficiently using supplies and minimizing cost as much as possible
-·	Increase competitive edge among other cafes in the state
-·	Improve overall customer experience
+##### ·	Cocktail Café currently has a small number of locations and plans to open more in Colorado
+##### ·	Cocktail Café needs to ensure all locations are thriving
+##### ·	Cocktail Café wants to know if they are efficiently using supplies and minimizing cost as much as possible
+##### ·	Increase competitive edge among other cafes in the state
+##### ·	Improve overall customer experience
  
 ##### 	Cocktail Café is a unique and fun place for friends and families to get together and enjoy their favorite drinks, no matter what the flavor.  Cocktail Café is looking to evaluate the offerings they currently present to their customers and look for other ways to both increase profits overall and take care of the loyal customers they have now. 
 ####    Business Requirements
