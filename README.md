@@ -25,7 +25,7 @@ The buying team at Cocktail Café would find it helpful to know which drink’s 
 
 ## Project Process:
 ### 1) Based on the Business Questions, generate a data mart. For this project, the data mart will look like this:(The datamart code is under DM Build/CocktailCafe DM.sql)
-
+![](image/Datamart.png)
 
 ### 2) Use the bak file under OLTP to restore the Cocktail Cafe database. It has data in it already. For people who want to see the codes, it is CocktailCafe DB.sql. The codes include both the empty database and the bulk load data process.
 
